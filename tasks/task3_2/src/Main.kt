@@ -8,6 +8,6 @@ fun main(args: Array<String>) {
         exitProcess(1)
     }
 
-    val number = args[0].toInt()
+    val number = args[0].toLong()
     println(number * number)
 }
