@@ -13,4 +13,3 @@ fun main() {
     val text = filePath.readText()
     println(text)
 }
-s
