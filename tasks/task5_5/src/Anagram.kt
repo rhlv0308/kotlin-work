@@ -9,3 +9,4 @@ infix fun String.anagramOf(second: String):Boolean{
     return firstChars == secondChars
 
 }
+
