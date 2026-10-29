@@ -2,6 +2,6 @@
 
 import kotlinx.datetime.LocalDate
 
-class Person(var name: String, val birth: LocalDate) {
+data class Person(var name: String, val birth: LocalDate) {
     var isMarried = false
 }

@@ -2,4 +2,7 @@
 
 fun main() {
     // Write your code here
+    val p = Point(2.0 ,3.0)
+    println(p)
+
 }
